@@ -1,10 +1,12 @@
-![banner](https://github.com/KaiYin77/KaiYin77/blob/main/public/banner.gif)
+<p align="center">
+  <img src="https://github.com/KaiYin77/KaiYin77/blob/main/public/banner.gif" alt="banner"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Kai-Yin</h1>
+<h1>Hi 👋, I'm Kai-Yin</h1>
 
 ## About me
 
-- :student: An graduate student at **National Yang Ming Chiao Tung University**.
+- :student: I'm a graduate student at **National Yang Ming Chiao Tung University**.
 - 🌱 I'm on track with learning more about **Web Development**, **Autonomous Vehicle** and **Blockchain Development**.
 - 📫 Reach me by [Gmail](mailto:kaiyin0208.ee07@nycu.edu.tw)
 
