@@ -1,3 +1,5 @@
+![banner](https://github.com/KaiYin77/KaiYin77/raw/master/public/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Kai-Yin</h1>
 
 ## About me
