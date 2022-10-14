@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kai-Yin</h1>
-<h3 align="center">An graduate student at **National Yang Ming Chiao Tung University**</h3>
+<h3 align="center">An graduate student at National Yang Ming Chiao Tung University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiyin77" alt="kaiyin77" /></a> </p>
 
-- 🌱 I’m currently learning ****Web Development** && **Autonomous Vehicle****
+- 🌱 I’m currently learning **Web Development** && **Autonomous Vehicle**
 
 - 📫 How to reach me **kaiyin0208.ee07@nycu.edu.tw**
 
