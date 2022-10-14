@@ -1,4 +1,4 @@
-![banner](https://github.com/KaiYin77/KaiYin77/raw/master/public/banner.gif)
+![banner](https://github.com/KaiYin77/KaiYin77/blob/main/public/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Kai-Yin</h1>
 
